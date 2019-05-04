@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Player Task</string>
+    <string name="current_channel_playback_message">Selected channel is already in playback</string>
+    <string name="playback_error">Unable to start playback</string>
+</resources>
